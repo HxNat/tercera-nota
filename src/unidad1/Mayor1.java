@@ -1,6 +1,6 @@
 package unidad1;
 
-public class Mayor {
+public class Mayor1 {
     public static void main(String[] args) {
         int num1 = 3;
         int num2 = 2;
