@@ -1,3 +1,4 @@
+package unidad1;    
 public class ResetScanner2 {
 public static void main(String[] args) {
     try (java.util.Scanner sc = new java.util.Scanner(System.in)) {

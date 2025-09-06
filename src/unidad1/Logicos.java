@@ -1,3 +1,4 @@
+package unidad1;
 public class Logicos {
     public static void main(String[] args) {
         int a = 10;

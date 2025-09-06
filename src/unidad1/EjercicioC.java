@@ -1,3 +1,4 @@
+package unidad1;
 public class EjercicioC {
     public static void main(String[] args) {
         double initialAmount = 1000.0;

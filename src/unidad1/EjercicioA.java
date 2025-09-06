@@ -1,3 +1,4 @@
+package unidad1;
 public class EjercicioA {
     public static void main(String[] args) {
         int age = 17;

@@ -1,3 +1,4 @@
+package unidad1;
 import java.util.Scanner;
 public class ListadeJuegos {
     public static void main(String[] args) {
