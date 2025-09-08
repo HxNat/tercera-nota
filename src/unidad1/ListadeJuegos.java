@@ -18,6 +18,7 @@ public class ListadeJuegos {
             System.out.println("Lista de juegos ingresados:");
             for (int i = 0; i < juegos.length; i++) {
                 System.out.println((i + 1) + ". " + juegos[i]);
+                scanner.close();
             }
         }
     }

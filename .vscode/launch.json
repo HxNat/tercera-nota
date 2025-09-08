@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraBasica",
+            "request": "launch",
+            "mainClass": "unidad1.CalculadoraBasica",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "unidad1.Menu",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

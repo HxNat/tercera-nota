@@ -13,6 +13,7 @@ public class InOutDatos {
             double altura = scanner.nextDouble();
 
             System.out.println("Hola, " + nombre + ". Tienes " + edad + " años y mides " + altura + " metros.");
+            scanner.close();
         }
     }
 }

@@ -8,6 +8,7 @@ public class Inicio {
             int numero = scanner.nextInt();
             int resultado = numero + 10;
             System.out.println("El resultado es: " + resultado);
+            scanner.close();
         }
     }
 }

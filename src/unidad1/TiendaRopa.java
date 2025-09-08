@@ -34,6 +34,7 @@ public class TiendaRopa {
 
           double totalPurchase = totalTshirt + totalPants;
           System.out.println("Total a pagar: " + totalPurchase);
+          scanner.close();
     }
 }
 }

@@ -20,6 +20,7 @@ public class OperadoresAritmeticos {
             System.out.println("Multiplicación: " + multiplicacion);
             System.out.println("División: " + division);
             System.out.println("Módulo: " + modulo);
+            scanner.close();
         }
     }
 }
