@@ -1,4 +1,4 @@
-package unidad1;
+package unidad2;
 public class ActividadDinamica {
     public static void main(String[] args) {
         int mayor = encontrarMayor(10, 20, 5);
