@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ActividadDinamica",
+            "request": "launch",
+            "mainClass": "unidad1.ActividadDinamica",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
+            "name": "HotelReservas",
+            "request": "launch",
+            "mainClass": "unidad1.HotelReservas",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
             "name": "PromedioArray",
             "request": "launch",
             "mainClass": "unidad1.PromedioArray",
