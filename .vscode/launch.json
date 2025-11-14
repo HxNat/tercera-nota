@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioString",
+            "request": "launch",
+            "mainClass": "unidad2.EjercicioString",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "unidad2.Main1",
+            "projectName": "tercera-nota_16f129d3"
+        },
+        {
+            "type": "java",
             "name": "EjercicioArray",
             "request": "launch",
             "mainClass": "unidad2.EjercicioArray",

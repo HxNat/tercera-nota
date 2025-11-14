@@ -8,7 +8,7 @@ public class EjercicioString {
         modificarString(texto);  
         System.out.println("Después de modificarString (sin usar retorno): " + texto);
 
-        texto = modificarString(texto); cambia
+        texto = modificarString(texto);
         System.out.println("Después de modificarString (usando retorno): " + texto);
     }
 
