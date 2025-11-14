@@ -11,7 +11,7 @@ public class Ejercicio1 {
     }
 
     public static void cambiarNumero(int n) {
-        n = 50; // Intentamos cambiar el valor
+        n = 50;
         System.out.println("Dentro: " + n);
     }
 }

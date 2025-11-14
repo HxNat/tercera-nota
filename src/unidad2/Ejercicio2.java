@@ -1,17 +1,15 @@
 package unidad2;
 
 public class Ejercicio2 {
-class Persona {
-    String nombre;
-}
+
     public static void main(String[] args) {
-        Persona persona = new Persona();
-        persona.nombre = "Ana";
-        cambiarNombre(persona);
-        System.out.println("Nombre después de cambiarNombre: " + persona.nombre);  // Debería imprimir María
+        Persona persona = new Persona();     // Crea un objeto Persona
+        persona.nombre = "Ana";              // Asigna nombre
+        cambiarNombre(persona);              // Cambia el nombre
+        System.out.println("Nombre después de cambiar: " + persona.nombre);
     }
 
     public static void cambiarNombre(Persona persona) {
-        persona.nombre = "María";
+        persona.nombre = "María";            // Modifica el estado del objeto
     }
 }
